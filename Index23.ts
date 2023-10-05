@@ -1,7 +1,7 @@
 import { type } from "os";
 
 let msg: "Hello" = "Hello";
-msg = "Hello";
+msg = "Hello_123";
 
 type Config = {protocol: "https" | "http"; port: 3000 | 3001};
 type Role = {
